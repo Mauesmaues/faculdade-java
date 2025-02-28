@@ -55,6 +55,8 @@ class Main{  public static void main(String[] args){Scanner input = new Scanner(
     float totalLitros = lata * 0.35f+ garrafa600 * 0.6f + garrafa2l * 2;
     System.out.printf("%.3f", totalLitros);
 
+    input.close();
+
   } }
 
 

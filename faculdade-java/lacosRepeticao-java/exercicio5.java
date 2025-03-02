@@ -1,7 +1,7 @@
 /*Escreva um programa que apresente na tela a tabuada de um número lido do teclado. Por exemplo,
 considerando que o número lido é 2, o formato da apresentação deve ser o seguinte*/
 import java.util.Scanner;
-class Exercicio5{
+class Tabuada{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

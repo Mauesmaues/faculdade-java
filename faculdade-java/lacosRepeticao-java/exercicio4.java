@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Exercicio4{
+class NumerosParesExistentes {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 

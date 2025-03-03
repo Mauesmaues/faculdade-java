@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/faculdade-java/segunda-aula-java" isTestSource="false" />
        <sourceFolder url="file://$MODULE_DIR$/faculdade-java/lacosRepeticao-java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/faculdade-java/vetores-java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/faculdade-java/matrizes-java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

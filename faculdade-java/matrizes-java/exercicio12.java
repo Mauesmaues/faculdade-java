@@ -6,10 +6,12 @@ class MatrisAlimentando{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         Random numeroRandom = new Random();
+        int soma = 0;
         int matriz[][]= new int[3][4];
         for(int i = 0; i < matriz.length; i++){
             for(int j = 0; j < matriz[0].length; j++){
                 matriz[i][j] = numeroRandom.nextInt(15);
+                soma += matriz[i][j];
             }
         }
         for(int i = 0; i < matriz.length; i++){
@@ -18,5 +20,6 @@ class MatrisAlimentando{
             }
                 System.out.print("\n");
         }
+        System.out.printf("A Soma da matriz eh: %d\n", soma);
     }
 }

@@ -1,5 +1,5 @@
 /*Escreva um programa que mostre o resultado da série: 1/100 + 2/99 + 3/98 + 4/97 + ... + 100/1*/
-class SerieDivididoPor100{
+class SerieDivididoPor{
     public static void main(String[] args){
         int divisor = 100, divisao = 0, soma = 0;
         for(int i = 1; i <= 100; i++){

@@ -11,5 +11,6 @@ class Tabuada{
             int tabuada = numero * i;
             System.out.printf("%d x %d = %d\n", numero, i, tabuada);
         }
+        input.close();
     }
 }

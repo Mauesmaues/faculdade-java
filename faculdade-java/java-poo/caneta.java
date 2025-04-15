@@ -1,6 +1,6 @@
 public class caneta {
     public String modelo;
-    private float ponta;
+    public float ponta;
     private boolean tampada;
     private String cor;
 

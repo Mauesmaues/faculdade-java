@@ -1,6 +1,7 @@
 public class Banco {
     private int qntDinheiro;
     private Status status;
+
     Banco(int qntDinheiro) {
         this.qntDinheiro = qntDinheiro;
         this.status = Status.DESLIGADO;
